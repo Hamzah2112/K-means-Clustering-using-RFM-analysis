@@ -1,6 +1,9 @@
 # K-means-Clustering-using-RFM-analysis
 
-Task:
+![image](https://user-images.githubusercontent.com/85283934/139312691-2a532265-c38e-4997-a3a0-f500c93262df.png)
+
+**Task:**
+
 Here we would need to create a model which assigns a customer to a certain customer category based on the total value of orders they’ve placed. This would let us target the most valuable customers with certain offers which promote a higher spend.
 
 **Data Set Information:**
