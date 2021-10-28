@@ -31,7 +31,7 @@ The quantity of the specific sku that was ordered.
 
 This is the date the order was placed.
 
-LINK to DATASET: https://www.kaggle.com/carrie1/ecommerce-data
+
 **UnitPrice**
 
 This is the price of the particular sku that was ordered.
@@ -39,6 +39,8 @@ This is the price of the particular sku that was ordered.
 **CustomerID**
 
 An anonymized ID of the customer who placed the order.
+
+LINK to DATASET: https://www.kaggle.com/carrie1/ecommerce-data
 
 
 ![image](https://user-images.githubusercontent.com/85283934/139314245-55f61527-6ce1-4a65-a01a-a1877701cc07.png)
