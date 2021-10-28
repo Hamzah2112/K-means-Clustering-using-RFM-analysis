@@ -31,6 +31,7 @@ The quantity of the specific sku that was ordered.
 
 This is the date the order was placed.
 
+LINK to DATASET: https://www.kaggle.com/carrie1/ecommerce-data
 **UnitPrice**
 
 This is the price of the particular sku that was ordered.
